@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @elizabethbarek
-- 👀 I’m interested in everything creative, anything insightful
-- 🌱 I’m currently learning python, java, literally every language i come across
+- 👀 I’m interested in everything related to STEM mixed with creative skills!
+- 🌱 I’m currently learning Python and Java (hoping to get learn both front-end and back-end)
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me linkedin
+- 📫 How to reach me is via LinkedIn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i have over 100  public playlists on spotify
+- ⚡ Fun fact: I have over 100  public playlists on Spotify
 
 <!---
 elizabethbarek/elizabethbarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
